@@ -1,5 +1,6 @@
 # KAuthNZ
-                                                                                                                                                                         Identity infrastructure built from first principles.
+                                                                                                                                                                         
+  Identity Infrastructure built from first principles.                                                                                                                                                                         
 
   Not a wrapper. Not a hosted service.
   A ground-up implementation of sovereign, federated identity
